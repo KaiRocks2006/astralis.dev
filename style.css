@@ -1,7 +1,9 @@
-/*body { background-color: rgb(31, 31, 31); }*/
+body { background-color: rgb(31, 31, 31);
+     background: rgb(31,31,31);
+     background: linear-gradient(90deg, rgba(31,31,31,1) 0%, rgba(47,47,47,1) 64%, rgba(63,63,63,1) 100%);
+     }
 
-background: rgb(31,31,31);
-background: linear-gradient(90deg, rgba(31,31,31,1) 0%, rgba(47,47,47,1) 64%, rgba(63,63,63,1) 100%);
+
 
 h1 { color: rgb(255, 255, 255); font-size: 55px; }
 
